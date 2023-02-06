@@ -1,0 +1,14 @@
+{
+    "name": "Discordo",
+    "description": "Plays the Discordo easter egg when you open the app.",
+    "authors": [
+        {
+            "name": "Fiery",
+            "id": "890228870559698955"
+        }
+    ],
+    "main": "src/index.tsx",
+    "vendetta": {
+        "icon": "ic_settings_boost_24px"
+    }
+}
